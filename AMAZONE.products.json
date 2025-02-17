@@ -1,0 +1,224 @@
+[{
+  "_id": 1,
+  "product_name": "banana",
+  "category": "fresh",
+  "type": "fruit and veg",
+  "description": "Bananas from Costa Rica.",
+  "dimensions": {
+    "height": 2,
+    "length": 5,
+    "width": 1
+  },
+  "weight": 50,
+  "avg_rating": 3.7,
+  "price": 0.6,
+  "supplier_cost": 0.2
+},
+{
+  "_id": 2,
+  "product_name": "Of Mice And Men",
+  "category": "other",
+  "type": "books",
+  "description": "Two migrant workers, Lennie and George, seek work during the Great Depression with the goal they share of buying a place of their own where they can be in charge of their own lives.",
+  "dimensions": {
+    "height": 5,
+    "length": 7,
+    "width": 3
+  },
+  "weight": 200,
+  "avg_rating": 4.2,
+  "price": 8.55,
+  "supplier_cost": 3
+},
+{
+  "_id": 3,
+  "product_name": "croissant",
+  "category": "fresh",
+  "type": "bakery",
+  "description": "Freshly baked butter croissants.",
+  "dimensions": {
+    "height": 3,
+    "length": 2,
+    "width": 1
+  },
+  "weight": 10,
+  "avg_rating": 4.5,
+  "price": 0.6,
+  "supplier_cost": 0.1
+},
+{
+  "_id": 4,
+  "product_name": "Chet Baker Sings",
+  "category": "other",
+  "type": "CDs",
+  "description": "The great jazz trumpeteer's singing album.",
+  "dimensions": {
+    "height": 4,
+    "length": 4,
+    "width": 1
+  },
+  "weight": 100,
+  "avg_rating": 4.1,
+  "price": 5,
+  "supplier_cost": 3.5
+},
+{
+  "_id": 5,
+  "product_name": "iPhone 11",
+  "category": "other",
+  "type": "mobile phones",
+  "description": "Apple's latest iPhone.",
+  "dimensions": {
+    "height": 5,
+    "length": 7,
+    "width": 3
+  },
+  "weight": 200,
+  "avg_rating": 2.8,
+  "price": 290.99,
+  "supplier_cost": 100
+},
+{
+  "_id": 6,
+  "product_name": "Babyliss hairdryer",
+  "category": "other",
+  "type": "home appliances",
+  "description": "High-powered hairdryer by Babyliss.",
+  "dimensions": {
+    "height": 10,
+    "length": 7,
+    "width": 5
+  },
+  "weight": 200,
+  "avg_rating": 3.4,
+  "price": 29.99,
+  "supplier_cost": 9.5
+},
+{
+  "_id": 7,
+  "product_name": "Mango innocent smoothie",
+  "category": "fresh",
+  "type": "drinks",
+  "description": "Pack of 4 mango-flavoured innocent smoothies.",
+  "dimensions": {
+    "height": 7,
+    "length": 7,
+    "width": 7
+  },
+  "weight": 250,
+  "avg_rating": 2.9,
+  "price": 4.99,
+  "supplier_cost": 1.5
+},
+{
+  "_id": 8,
+  "product_name": "pear",
+  "category": "fresh",
+  "type": "fruit and veg",
+  "description": "Pears from Oceania.",
+  "dimensions": {
+    "height": 3,
+    "length": 2,
+    "width": 3
+  },
+  "weight": 150,
+  "avg_rating": 4.1,
+  "price": 0.9,
+  "supplier_cost": 0.5
+},
+{
+  "_id": 9,
+  "product_name": "Deep Work",
+  "category": "other",
+  "type": "books",
+  "description": "Cal Newport's 'Deep Work' advocates for undistracted focus, offering strategies to cultivate deep work habits and achieve high-level productivity.",
+  "dimensions": {
+    "height": 6,
+    "length": 9,
+    "width": 7
+  },
+  "weight": 380,
+  "avg_rating": 4.5,
+  "price": 14.99,
+  "supplier_cost": 7
+},
+{
+  "_id": 10,
+  "product_name": "doughnut",
+  "category": "fresh",
+  "type": "bakery",
+  "description": "Freshly baked doughnuts.",
+  "dimensions": {
+    "height": 1,
+    "length": 3,
+    "width": 3
+  },
+  "weight": 50,
+  "avg_rating": 3.8,
+  "price": 2,
+  "supplier_cost": 1
+},
+{
+  "_id": 11,
+  "product_name": "Dark Side of the Moon",
+  "category": "other",
+  "type": "CDs",
+  "description": "Iconic progressive rock album known for its immersive soundscapes and thought-provoking lyrics, exploring themes of life and existence.",
+  "dimensions": {
+    "height": 4,
+    "length": 4,
+    "width": 1
+  },
+  "weight": 90,
+  "avg_rating": 4.5,
+  "price": 10,
+  "supplier_cost": 5.5
+},
+{
+  "_id": 12,
+  "product_name": "Samsung Galaxy S23 Ultra",
+  "category": "other",
+  "type": "mobile phones",
+  "description": "Samsung's latest Flagship Android Phone.",
+  "dimensions": {
+    "height": 6,
+    "length": 3,
+    "width": 1
+  },
+  "weight": 200,
+  "avg_rating": 4.8,
+  "price": 1000,
+  "supplier_cost": 650
+},
+{
+  "_id": 13,
+  "product_name": "QuantumClean Pro Blender",
+  "category": "other",
+  "type": "home appliances",
+  "description": "State-of-the-art blender equipped with quantum blade technology for superior blending, smart presets, and a sleek design, making kitchen tasks effortless.",
+  "dimensions": {
+    "height": 8,
+    "length": 10,
+    "width": 6
+  },
+  "weight": 2700,
+  "avg_rating": 3.9,
+  "price": 149.99,
+  "supplier_cost": 89.99
+},
+{
+  "_id": 14,
+  "product_name": "Solaris Bliss Elixir",
+  "category": "fresh",
+  "type": "drinks",
+  "description": "Exquisite blend of rare botanicals and fruits, Solaris Bliss Elixir offers a refreshing, harmonious taste, delivering a sensory journey of indulgence.",
+  "dimensions": {
+    "height": 3,
+    "length": 3,
+    "width": 10
+  },
+  "weight": 500,
+  "avg_rating": 4.9,
+  "price": 26.99,
+  "supplier_cost": 15.5
+}]

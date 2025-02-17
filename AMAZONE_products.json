@@ -1,0 +1,112 @@
+[{
+  "_id": 1,
+  "product_name": "banana",
+  "category": "fresh",
+  "type": "fruit and veg",
+  "description": "Bananas from Costa Rica.",
+  "dimensions": {
+    "height": 2,
+    "length": 5,
+    "width": 1
+  },
+  "weight": 50,
+  "avg_rating": 3.7,
+  "price": 0.6,
+  "supplier_cost": 0.2
+},
+{
+  "_id": 2,
+  "product_name": "Of Mice And Men",
+  "category": "other",
+  "type": "books",
+  "description": "Two migrant workers, Lennie and George, seek work during the Great Depression with the goal they share of buying a place of their own where they can be in charge of their own lives.",
+  "dimensions": {
+    "height": 5,
+    "length": 7,
+    "width": 3
+  },
+  "weight": 200,
+  "avg_rating": 4.2,
+  "price": 8.55,
+  "supplier_cost": 3
+},
+{
+  "_id": 3,
+  "product_name": "croissant",
+  "category": "fresh",
+  "type": "bakery",
+  "description": "Freshly baked butter croissants.",
+  "dimensions": {
+    "height": 3,
+    "length": 2,
+    "width": 1
+  },
+  "weight": 10,
+  "avg_rating": 4.5,
+  "price": 0.6,
+  "supplier_cost": 0.1
+},
+{
+  "_id": 4,
+  "product_name": "Chet Baker Sings",
+  "category": "other",
+  "type": "CDs",
+  "description": "The great jazz trumpeteer's singing album.",
+  "dimensions": {
+    "height": 4,
+    "length": 4,
+    "width": 1
+  },
+  "weight": 100,
+  "avg_rating": 4.1,
+  "price": 5,
+  "supplier_cost": 3.5
+},
+{
+  "_id": 5,
+  "product_name": "iPhone 11",
+  "category": "other",
+  "type": "mobile phones",
+  "description": "Apple's latest iPhone.",
+  "dimensions": {
+    "height": 5,
+    "length": 7,
+    "width": 3
+  },
+  "weight": 200,
+  "avg_rating": 2.8,
+  "price": 290.99,
+  "supplier_cost": 100
+},
+{
+  "_id": 6,
+  "product_name": "Babyliss hairdryer",
+  "category": "other",
+  "type": "home appliances",
+  "description": "High-powered hairdryer by Babyliss.",
+  "dimensions": {
+    "height": 10,
+    "length": 7,
+    "width": 5
+  },
+  "weight": 200,
+  "avg_rating": 3.4,
+  "price": 29.99,
+  "supplier_cost": 9.5
+},
+{
+  "_id": 7,
+  "product_name": "Mango innocent smoothie",
+  "category": "fresh",
+  "type": "drinks",
+  "description": "Pack of 4 mango-flavoured innocent smoothies.",
+  "dimensions": {
+    "height": 7,
+    "length": 7,
+    "width": 7
+  },
+  "weight": 250,
+  "avg_rating": 2.9,
+  "price": 4.99,
+  "supplier_cost": 1.5
+}]

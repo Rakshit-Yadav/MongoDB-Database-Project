@@ -1,0 +1,52 @@
+[{
+  "_id": 1,
+  "name": "Salford Morrizon",
+  "store_address": {
+    "street": "Phoebe Street",
+    "city": "Manchester",
+    "postcode": "M5 3PH"
+  },
+  "available_groceries": [
+    {
+      "product_id": 1,
+      "quantity": 150
+    },
+    {
+      "product_id": 3,
+      "quantity": 78
+    },
+    {
+      "product_id": 7,
+      "quantity": 104
+    }
+  ],
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      53.474421,
+      -2.28187
+    ]
+  }
+},
+{
+  "_id": 2,
+  "name": "NQ Morrizon",
+  "store_address": {
+    "street": "Piccadilly",
+    "city": "Manchester",
+    "postcode": "M1 1LU"
+  },
+  "available_groceries": [
+    {
+      "product_id": 1,
+      "quantity": 185
+    }
+  ],
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      53.481394,
+      -2.236699
+    ]
+  }
+}]

@@ -1,0 +1,47 @@
+[{
+  "_id": 1,
+  "name": "postman pat",
+  "gender": "male",
+  "age": 32,
+  "activity_status": "active",
+  "current_location": {
+    "type": "Point",
+    "coordinates": [
+      53.48004992263606,
+      -2.2527415906449435
+    ]
+  },
+  "available": "no",
+  "current_delivery_id": 2670
+},
+{
+  "_id": 2,
+  "name": "bill bilson",
+  "gender": "male",
+  "age": 48,
+  "activity_status": "active",
+  "current_location": {
+    "type": "Point",
+    "coordinates": [
+      53.47634561987544,
+      -2.2443732860526824
+    ]
+  },
+  "available": "no",
+  "current_delivery_id": 1551
+},
+{
+  "_id": 3,
+  "name": "jill johnson",
+  "gender": "female",
+  "age": 26,
+  "activity_status": "idle",
+  "current_location": {
+    "type": "Point",
+    "coordinates": [
+      53.478976288547884,
+      -2.2560462589619497
+    ]
+  },
+  "available": "yes"
+}]

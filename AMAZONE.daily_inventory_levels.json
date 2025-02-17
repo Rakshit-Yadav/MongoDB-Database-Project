@@ -1,0 +1,226 @@
+[{
+  "_id": 1,
+  "date": "2023-12-04",
+  "storage_warehouse": [
+    {
+      "name": "DL WAREHOUSE",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          53.4426,
+          -2.2187
+        ]
+      },
+      "products": [
+        {
+          "product_id": 1,
+          "quantity": 50
+        },
+        {
+          "product_id": 2,
+          "quantity": 40
+        },
+        {
+          "product_id": 3,
+          "quantity": 25
+        },
+        {
+          "product_id": 4,
+          "quantity": 90
+        },
+        {
+          "product_id": 5,
+          "quantity": 56
+        },
+        {
+          "product_id": 6,
+          "quantity": 77
+        },
+        {
+          "product_id": 7,
+          "quantity": 15
+        },
+        {
+          "product_id": 8,
+          "quantity": 34
+        },
+        {
+          "product_id": 9,
+          "quantity": 66
+        },
+        {
+          "product_id": 10,
+          "quantity": 24
+        },
+        {
+          "product_id": 11,
+          "quantity": 38
+        },
+        {
+          "product_id": 12,
+          "quantity": 50
+        },
+        {
+          "product_id": 13,
+          "quantity": 67
+        },
+        {
+          "product_id": 14,
+          "quantity": 44
+        },
+        {
+          "product_id": 15,
+          "quantity": 49
+        }
+      ]
+    },
+    {
+      "name": "BG Warehouse",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          53.4875,
+          -2.2901
+        ]
+      },
+      "products": [
+        {
+          "product_id": 1,
+          "quantity": 50
+        },
+        {
+          "product_id": 2,
+          "quantity": 40
+        },
+        {
+          "product_id": 3,
+          "quantity": 25
+        },
+        {
+          "product_id": 4,
+          "quantity": 90
+        },
+        {
+          "product_id": 5,
+          "quantity": 56
+        },
+        {
+          "product_id": 6,
+          "quantity": 77
+        },
+        {
+          "product_id": 7,
+          "quantity": 15
+        },
+        {
+          "product_id": 8,
+          "quantity": 34
+        },
+        {
+          "product_id": 9,
+          "quantity": 66
+        },
+        {
+          "product_id": 10,
+          "quantity": 24
+        },
+        {
+          "product_id": 11,
+          "quantity": 38
+        },
+        {
+          "product_id": 12,
+          "quantity": 50
+        },
+        {
+          "product_id": 13,
+          "quantity": 67
+        },
+        {
+          "product_id": 14,
+          "quantity": 44
+        },
+        {
+          "product_id": 15,
+          "quantity": 49
+        }
+      ]
+    }
+  ]
+},
+{
+  "_id": 2,
+  "date": "2023-12-05",
+  "storage_warehouse": {
+    "name": "PL WAREHOUSE",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        53.4103,
+        -2.2294
+      ]
+    },
+    "products": [
+      {
+        "product_id": 1,
+        "quantity": 90
+      },
+      {
+        "product_id": 2,
+        "quantity": 55
+      },
+      {
+        "product_id": 3,
+        "quantity": 80
+      },
+      {
+        "product_id": 4,
+        "quantity": 50
+      },
+      {
+        "product_id": 5,
+        "quantity": 40
+      },
+      {
+        "product_id": 6,
+        "quantity": 25
+      },
+      {
+        "product_id": 7,
+        "quantity": 90
+      },
+      {
+        "product_id": 8,
+        "quantity": 56
+      },
+      {
+        "product_id": 9,
+        "quantity": 77
+      },
+      {
+        "product_id": 10,
+        "quantity": 97
+      },
+      {
+        "product_id": 11,
+        "quantity": 43
+      },
+      {
+        "product_id": 12,
+        "quantity": 61
+      },
+      {
+        "product_id": 13,
+        "quantity": 40
+      },
+      {
+        "product_id": 14,
+        "quantity": 35
+      },
+      {
+        "product_id": 15,
+        "quantity": 14
+      }
+    ]
+  }
+}]

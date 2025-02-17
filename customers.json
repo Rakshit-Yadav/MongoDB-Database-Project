@@ -1,0 +1,417 @@
+[{
+  "_id": 1,
+  "name": "Abhi Das",
+  "gender": "Male",
+  "age": 24,
+  "customer_addresses": [
+    {
+      "billing_shipping": "billing",
+      "house_number": "4",
+      "street": "Albion Road",
+      "city": "Manchester",
+      "postcode": "M14 6GA"
+    },
+    {
+      "billing_shipping": "shipping",
+      "house_number": "24",
+      "street": "Oxford Road",
+      "city": "Manchester",
+      "postcode": "M12 8MA",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          53.4481,
+          -2.2249
+        ]
+      }
+    }
+  ],
+  "current_orders": [
+    {
+      "_id": 1550,
+      "date": {
+        "$date": "2023-12-05T00:00:00.000Z"
+      },
+      "items": [
+        {
+          "product_id": 2,
+          "quantity": 3,
+          "price": 8.55,
+          "order_item_cost": 25.65
+        },
+        {
+          "product_id": 4,
+          "quantity": 1,
+          "price": 5,
+          "order_item_cost": 5
+        }
+      ],
+      "order_cost": 30.65
+    },
+    {
+      "_id": 1551,
+      "date": {
+        "$date": "2023-12-05T00:00:00.000Z"
+      },
+      "items": [
+        {
+          "product_id": 7,
+          "quantity": 2,
+          "price": 4.99,
+          "order_item_cost": 9.98
+        },
+        {
+          "product_id": 1,
+          "quantity": 1,
+          "price": 0.6,
+          "order_item_cost": 0.6
+        }
+      ],
+      "order_cost": 10.58
+    }
+  ],
+  "past_orders": [
+    {
+      "_id": 101,
+      "date": {
+        "$date": "2023-12-04T00:00:00.000Z"
+      },
+      "items": [
+        {
+          "product_id": 1,
+          "quantity": 6,
+          "price": 0.6,
+          "order_item_cost": 3.6
+        },
+        {
+          "product_id": 3,
+          "quantity": 3,
+          "price": 0.6,
+          "order_item_cost": 1.8
+        }
+      ],
+      "order_cost": 5.4
+    },
+    {
+      "_id": 102,
+      "date": {
+        "$date": "2023-12-04T00:00:00.000Z"
+      },
+      "items": [
+        {
+          "product_id": 4,
+          "quantity": 2,
+          "price": 5,
+          "order_item_cost": 10
+        },
+        {
+          "product_id": 2,
+          "quantity": 1,
+          "price": 8.55,
+          "order_item_cost": 8.55
+        },
+        {
+          "product_id": 3,
+          "quantity": 2,
+          "price": 0.6,
+          "order_item_cost": 1.2
+        }
+      ],
+      "order_cost": 19.75
+    },
+    {
+      "_id": 103,
+      "date": {
+        "$date": "2023-12-04T00:00:00.000Z"
+      },
+      "items": [
+        {
+          "product_id": 6,
+          "quantity": 3,
+          "price": 29.99,
+          "order_item_cost": 89.97
+        },
+        {
+          "product_id": 3,
+          "quantity": 1,
+          "price": 0.6,
+          "order_item_cost": 0.6
+        }
+      ],
+      "order_cost": 90.57
+    },
+    {
+      "_id": 104,
+      "date": {
+        "$date": "2023-12-04T00:00:00.000Z"
+      },
+      "items": [
+        {
+          "product_id": 9,
+          "quantity": 2,
+          "price": 14.99,
+          "order_item_cost": 29.98
+        },
+        {
+          "product_id": 14,
+          "quantity": 2,
+          "price": 26.99,
+          "order_item_cost": 53.98
+        }
+      ],
+      "order_cost": 83.96
+    },
+    {
+      "_id": 105,
+      "date": {
+        "$date": "2023-12-04T00:00:00.000Z"
+      },
+      "items": [
+        {
+          "product_id": 14,
+          "quantity": 1,
+          "price": 26.99,
+          "order_item_cost": 26.99
+        },
+        {
+          "product_id": 3,
+          "quantity": 1,
+          "price": 0.6,
+          "order_item_cost": 0.6
+        }
+      ],
+      "order_cost": 27.59
+    }
+  ],
+  "recommended_products": [
+    {
+      "product_name": "Dark Side of the Moon",
+      "avg_rating": 4.95
+    }
+  ]
+},
+{
+  "_id": 2,
+  "name": "Rakshit Yadav",
+  "gender": "Male",
+  "age": 53,
+  "customer_addresses": [
+    {
+      "billing_shipping": "shipping",
+      "house_number": "10",
+      "street": "White Hart Lane",
+      "city": "Manchester",
+      "postcode": "M18 1QH",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          53.4631,
+          -2.2913
+        ]
+      }
+    },
+    {
+      "billing_shipping": "billing",
+      "house_number": "5",
+      "street": "Anfield Street",
+      "city": "Liverpool",
+      "postcode": "L16 6QR"
+    }
+  ],
+  "current_orders": [
+    {
+      "_id": 2670,
+      "date": {
+        "$date": "2023-12-05T00:00:00.000Z"
+      },
+      "items": [
+        {
+          "product_id": 6,
+          "quantity": 2,
+          "price": 29.99,
+          "order_item_cost": 59.98
+        },
+        {
+          "product_id": 2,
+          "quantity": 6,
+          "price": 8.55,
+          "order_item_cost": 51.3
+        }
+      ],
+      "order_cost": 111.28
+    },
+    {
+      "_id": 2671,
+      "date": {
+        "$date": "2023-12-05T00:00:00.000Z"
+      },
+      "items": [
+        {
+          "product_id": 1,
+          "quantity": 9,
+          "price": 0.6,
+          "order_item_cost": 5.4
+        },
+        {
+          "product_id": 5,
+          "quantity": 2,
+          "price": 290.99,
+          "order_item_cost": 581.98
+        }
+      ],
+      "order_cost": 587.38
+    },
+    {
+      "_id": 2672,
+      "date": {
+        "$date": "2023-12-05T00:00:00.000Z"
+      },
+      "items": [
+        {
+          "product_id": 4,
+          "quantity": 1,
+          "price": 5,
+          "order_item_cost": 5
+        },
+        {
+          "product_id": 5,
+          "quantity": 3,
+          "price": 290.99,
+          "order_item_cost": 872.97
+        },
+        {
+          "product_id": 3,
+          "quantity": 2,
+          "price": 0.6,
+          "order_item_cost": 1.2
+        }
+      ],
+      "order_cost": 879.17
+    }
+  ],
+  "past_orders": [
+    {
+      "_id": 106,
+      "date": {
+        "$date": "2023-12-04T00:00:00.000Z"
+      },
+      "items": [
+        {
+          "product_id": 3,
+          "quantity": 7,
+          "price": 0.6,
+          "order_item_cost": 4.2
+        },
+        {
+          "product_id": 1,
+          "quantity": 2,
+          "price": 0.6,
+          "order_item_cost": 1.2
+        },
+        {
+          "product_id": 2,
+          "quantity": 1,
+          "price": 8.55,
+          "order_item_cost": 8.55
+        }
+      ],
+      "order_cost": 13.95
+    },
+    {
+      "_id": 107,
+      "date": {
+        "$date": "2023-12-04T00:00:00.000Z"
+      },
+      "items": [
+        {
+          "product_id": 3,
+          "quantity": 1,
+          "price": 0.6,
+          "order_item_cost": 0.6
+        },
+        {
+          "product_id": 6,
+          "quantity": 3,
+          "price": 29.99,
+          "order_item_cost": 89.97
+        }
+      ],
+      "order_cost": 90.57
+    },
+    {
+      "_id": 108,
+      "date": {
+        "$date": "2023-12-04T00:00:00.000Z"
+      },
+      "items": [
+        {
+          "product_id": 3,
+          "quantity": 1,
+          "price": 0.6,
+          "order_item_cost": 0.6
+        },
+        {
+          "product_id": 5,
+          "quantity": 2,
+          "price": 290.99,
+          "order_item_cost": 581.98
+        }
+      ],
+      "order_cost": 582.58
+    },
+    {
+      "_id": 109,
+      "date": {
+        "$date": "2023-12-04T00:00:00.000Z"
+      },
+      "items": [
+        {
+          "product_id": 1,
+          "quantity": 3,
+          "price": 0.6,
+          "order_item_cost": 1.8
+        },
+        {
+          "product_id": 10,
+          "quantity": 3,
+          "price": 2,
+          "order_item_cost": 6
+        },
+        {
+          "product_id": 3,
+          "quantity": 1,
+          "price": 0.6,
+          "order_item_cost": 0.6
+        }
+      ],
+      "order_cost": 8.4
+    },
+    {
+      "_id": 110,
+      "date": {
+        "$date": "2023-12-04T00:00:00.000Z"
+      },
+      "items": [
+        {
+          "product_id": 13,
+          "quantity": 1,
+          "price": 149.99,
+          "order_item_cost": 149.99
+        },
+        {
+          "product_id": 11,
+          "quantity": 1,
+          "price": 10,
+          "order_item_cost": 10
+        }
+      ],
+      "order_cost": 159.99
+    }
+  ],
+  "recommended_products": [
+    {
+      "product_name": "Dark Side of the Moon",
+      "avg_rating": 4.95
+    }
+  ]
+}]
